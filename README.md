@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-example
-=======
 # Lorem-Ipsum-Populator
 Chrome extension to populate an input with lorem ipsum content
->>>>>>> 1563489c371df0d416a95dfcb8878a063915ed98
+
+To install the extension, follow the instructions as described [here](https://developer.chrome.com/extensions/getstarted#unpacked) (the usage guide will be updated later).
