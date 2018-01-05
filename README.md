@@ -5,4 +5,4 @@ To install the extension, follow the instructions as described [here](https://de
 
 ![example](docs/print.png)
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/y6hACxPSBJQ6Jk6pXSFbk4D8/renanliberato/Lorem-Ipsum-Populator'>  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/y6hACxPSBJQ6Jk6pXSFbk4D8/renanliberato/Lorem-Ipsum-Populator.svg' /></a>
+
